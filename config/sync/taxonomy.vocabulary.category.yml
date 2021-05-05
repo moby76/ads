@@ -1,0 +1,8 @@
+uuid: 2385b83f-ee5a-4704-9a6f-004902c0195b
+langcode: ru
+status: true
+dependencies: {  }
+name: Категория
+vid: category
+description: ''
+weight: 0

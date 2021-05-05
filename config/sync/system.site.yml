@@ -1,0 +1,14 @@
+uuid: 9c01a890-dc31-464e-b4f7-ac0081e46e88
+name: Объявления
+mail: moby76@mail.ru
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: ru
+default_langcode: ru
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
